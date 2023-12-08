@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 60px 0;
+    gap: 60px;
+    background-color: grey;
+    height: 430px;
+    width: 330px;
+}
+
+.like-count {
+    font-size: 24px;
+    cursor: auto;
+}
+
+.mutiple-line-ellipsis {
+    min-height: 66px;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
+

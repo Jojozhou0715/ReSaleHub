@@ -1,0 +1,46 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.container {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.selector {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 48px;
+    margin:30px 0 30px 0;
+}
+
+.radio {
+    border: none;
+    box-shadow: none;
+    box-sizing: none;
+    border-color: white;
+
+}
+
+.radio:hover{
+    color: black;
+    background-color: rgb(214, 237, 243);
+}
+
+/* .ratio:focus {
+    color: rgb(45, 6, 6);
+} */
+
+/* .ant-radio-button-wrapper {
+    border: initial;
+    box-shadow: initial;
+  } */
+  
+
