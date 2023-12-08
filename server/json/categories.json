@@ -1,0 +1,24 @@
+{
+    "data": [
+      {
+        "id": "1",
+        "name": "Women"
+      },
+      {
+        "id": "2",
+        "name": "Men"
+      },
+      {
+        "id": "3",
+        "name": "Kids"
+      },
+      {
+        "id": "4",
+        "name": "Pets"
+      },
+      {
+        "id": "5",
+        "name": "Home"
+      }
+    ]
+  }
